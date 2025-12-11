@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Linguagens: JavaScript, CSS, Python e Java<br><br>• Banco de dados: MySQL<br><br>• Ferramentas: Git, Github, VSCode, IntelliJ IDEA, Colab</p>
+<p align="left">• Linguagens: JavaScript, CSS, Python e Java, R<br><br>• Banco de dados: MySQL<br><br>• Ferramentas: Git, Github, VSCode, IntelliJ IDEA, Colab, Rstudio</p>
 
 ###
 
